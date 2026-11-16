@@ -76,7 +76,7 @@ async function init(){
   });
 
   /* Marquee: isi diduplikasi agar putarannya mulus (animasi geser 50%) */
-  const words = ["CCIT Students Society","Fakultas Teknik UI","Kepengurusan 2026/2027","Talenta digital"];
+  const words = ["CCIT Students Society","Fakultas Teknik UI","Kepengurusan 2026/2027","#SatuLangkah"];
   const unit = words.map(w => `<span>${w}</span>`).join("");
   document.getElementById("track").innerHTML = unit + unit;
 
