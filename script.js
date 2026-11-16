@@ -26,10 +26,10 @@ const OPEN_ROLES = [
 const LOGO = "logo.webp";      // kecil, untuk header dan footer
 const LOGO_HD = "logo-hd.webp"; // besar, untuk hero
 const EVENTS = [
-  {d:"16 Nov",    cat:"Rekrutmen", t:"Announcement",      p:"Pengumuman resmi open recruitment."},
-  {d:"16–27 Nov", cat:"Rekrutmen", t:"Pendaftaran",        p:"Isi formulir dan kirim berkas."},
-  {d:"16–27 Nov", cat:"Rekrutmen", t:"Interview",          p:"Wawancara berjalan bersamaan dengan masa pendaftaran."},
-  {d:"29 Nov",    cat:"Rekrutmen", t:"Pengumuman hasil",   p:"Hasil seleksi diumumkan."},
+  {d:"17 Nov",    cat:"Rekrutmen", t:"Announcement",      p:"Pengumuman resmi open recruitment."},
+  {d:"17–27 Nov", cat:"Rekrutmen", t:"Pendaftaran",        p:"Isi formulir dan kirim berkas."},
+  {d:"19–29 Nov", cat:"Rekrutmen", t:"Interview",          p:"Wawancara berjalan bersamaan dengan masa pendaftaran."},
+  {d:"30 Nov",    cat:"Rekrutmen", t:"Pengumuman hasil",   p:"Hasil seleksi diumumkan."},
   {d:"01 Des",    cat:"Internal",  t:"First Meeting",      p:"Pertemuan pertama pengurus terpilih."},
   {d:"04 Des",    cat:"Internal",  t:"Sertijab",           p:"Serah terima jabatan."}
 ];
