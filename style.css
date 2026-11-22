@@ -2,7 +2,7 @@
 :root{
   --orange:#E97900; --orange-hi:#ff8d1a;
   --bg:#fff; --fg:#0a0a0a; --muted:#555; --line:#e3e3e3;
-  --font:"Bebas Neue","Segoe UI",system-ui,sans-serif;
+  --font:"Montserrat","Segoe UI",system-ui,sans-serif;
   --ease:cubic-bezier(.2,.8,.2,1);
   box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);
 }
